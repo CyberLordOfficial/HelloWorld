@@ -16,7 +16,7 @@ To compile and run this project, you will need a C++ compiler installed on your 
 
 ## Building the Project
 
-You can compile the `main.cpp` file using your C++ compiler.
+You can compile the `HelloWorld.cpp` file using your C++ compiler.
 
 ```bash
 # Using g++
